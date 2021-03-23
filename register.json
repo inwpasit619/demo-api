@@ -1,0 +1,68 @@
+{
+  "gtxOneRegisters": [
+    {
+      "phone": ["0632493654", "029999999", "0632493654"],
+      "use_software": [1, 2, 5],
+      "_id": "605993816d51ca0e959d6ad3",
+      "name": "โสฬส",
+      "work_email": "soros@giztix.com",
+      "company_name": "Maninnovation",
+      "website": "www.maninnovation.com",
+      "corp_email": "soros@giztix.com",
+      "test_software": 1,
+      "use_plant": 3,
+      "problems_remark": "ทดสอบ\nทดสอบ\nทดสอบ\nทดสอบ\nทดสอบ",
+      "create_date": "2021/03/23",
+      "last_update": "2021/03/23",
+      "__v": 0
+    },
+    {
+      "phone": ["0917905195", "0917905195"],
+      "use_software": [4, 1],
+      "_id": "605839c6b6c68e7076a99267",
+      "name": "test",
+      "work_email": "test@gmail.com",
+      "company_name": "Test",
+      "website": "",
+      "corp_email": "test@gmail.com",
+      "test_software": 0,
+      "use_plant": 4,
+      "problems_remark": "ไม่สนใจ",
+      "create_date": "2021/03/22",
+      "last_update": "2021/03/22",
+      "__v": 0
+    },
+    {
+      "phone": ["0951917922", "0951917922"],
+      "use_software": [5],
+      "_id": "605829c6b6c68e7076a9925d",
+      "name": "Muay 2",
+      "work_email": "muay2@gmail.com",
+      "company_name": "Muay2 Co.,Ltd.",
+      "website": "",
+      "corp_email": "muay2@gmail.com",
+      "test_software": 0,
+      "use_plant": 3,
+      "problems_remark": "()^&$%@$@#^$*^)&*^%",
+      "create_date": "2021/03/22",
+      "last_update": "2021/03/22",
+      "__v": 0
+    },
+    {
+      "phone": ["0646128177", "0646128177", "0646128171"],
+      "use_software": [1, 2, 3, 4, 5],
+      "_id": "6058276abc4cf91446025a3f",
+      "name": "Muay 1",
+      "work_email": "muay@gmail.com",
+      "company_name": "Muay Co.,Ltd.",
+      "website": "test.com",
+      "corp_email": "muay@gmail.com",
+      "test_software": 1,
+      "use_plant": 1,
+      "problems_remark": "ทดสอบ",
+      "create_date": "2021/03/22",
+      "last_update": "2021/03/22",
+      "__v": 0
+    }
+  ]
+}
